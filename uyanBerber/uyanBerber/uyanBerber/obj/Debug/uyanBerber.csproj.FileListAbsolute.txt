@@ -1,0 +1,12 @@
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\bin\Debug\uyanBerber.exe.config
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\bin\Debug\uyanBerber.exe
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\bin\Debug\uyanBerber.pdb
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\obj\Debug\uyanBerber.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\obj\Debug\uyanBerber.exe
+C:\Users\Serap\Desktop\visual studio yazılan\uyanBerber\uyanBerber\obj\Debug\uyanBerber.pdb
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\bin\Debug\uyanBerber.exe.config
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\obj\Debug\uyanBerber.pdb
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\bin\Debug\uyanBerber.exe
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\bin\Debug\uyanBerber.pdb
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\obj\Debug\uyanBerber.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\uyanBerber\uyanBerber\uyanBerber\obj\Debug\uyanBerber.exe
